@@ -1,5 +1,7 @@
 # Bit Academy default gitignore
 
+ANTWOORD.txt
+
 # Mac
 .DS_Store
 *.DS_Store
